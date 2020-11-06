@@ -24,6 +24,11 @@ public class FloatPrecision {
         System.out.println("y==Z?"+(x==z));
 
 
+        System.out.println(33554428f==33554429f);
+        System.out.println(33554428f==33554427f);
+
+
+
 
 
 
