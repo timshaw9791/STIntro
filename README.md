@@ -1,2 +1,2 @@
 # STIntro
-![](readme/ieee754-32floatpointconvert.jpg)
+![](ieee754-32floatpointconvert.jpg)
