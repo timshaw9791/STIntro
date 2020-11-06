@@ -34,7 +34,7 @@ public class Phase01Test {
         int b=57;
         //TODO 5 设置c的值，请用位运算符做以下运算：～、&、｜、^中的一个，使得a?c,b?c都能让a,b的二进制位数的最低4为保持不变，其他二进制位边为0；
         //A:算是位运算位的用途之一咯，so easy.
-        int c=0x0F;
+        int c=0xF0;
         System.out.println(a&c);
         System.out.println(b&c);
 
